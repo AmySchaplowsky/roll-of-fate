@@ -1,6 +1,6 @@
 # roll-of-fate
 
-Session notes and world wiki for our D&amp;D campaign
+Session notes and world wiki for our SOIF campaign
 
 These files are meant to be viewed in the [Obsidian](https://obsidian.md) application with certain plugins installed and enabled. Obsidian is a knowledge management tool which allows you to view and edit local Markdown files. If you want to view them on multiple devices, a file syncing service should be used.
 
