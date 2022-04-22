@@ -1,4 +1,11 @@
-#pcs 
+---
+tags: pcs
+origin: 
+location: riverlands
+faction: delver
+aliases: 
+status: alive
+---
 
 # Corren Stone
 
