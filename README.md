@@ -8,7 +8,7 @@ These files are meant to be viewed in the [Obsidian](https://obsidian.md) applic
 
 1. Clone this [Git Repo](https://github.com/AmySchaplowsky/roll-of-fate) or simply download the files.
 2. Download [Obsidian](https://obsidian.md/download)
-3. Launch Obsidian and open the Curse-of-Strahd folder as a Vault
+3. Launch Obsidian and open the roll-of-fate folder as a Vault
 4. Open the Settings via the Gear icon at the bottom left
    1. Select the **Core plugins** section
       1. Enable **Daily Notes** and open the plugin options
