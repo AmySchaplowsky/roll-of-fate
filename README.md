@@ -26,7 +26,10 @@ These files are meant to be viewed in the [Obsidian](https://obsidian.md) applic
       1. Select **Dataview** to open the plugin options
          1. Set **Enable JavaScript Queries** = `ON`
       2. Select **Excalidraw** to open the plugin options
-         1. Change the Excalidraw folder to `Images`  
+	      1. Change the Excalidraw folder to `Images`  
+      3. Select **Obsidian Git** to open the plugin options
+	      1. Set **Auto pull interval (minutes)** to `15`
+         1. Set **Pull update on startup** = `ON`
 5. Go to [[Campaign Overview]] and confirm the Dataview queries are displaying data from the campaign notes
 6. Click the Daily Note icon at the top left (see below) and confirm a new page is created in the Session Notes folder with today's date as the title and populated with the New Session template content
    ![[Daily Note Icon.png]]
