@@ -2,5 +2,5 @@
 
 # Campaign World
 
-## Region Map
+## The Delving Vale Map
 ![[Delving Vale.jpg]]
