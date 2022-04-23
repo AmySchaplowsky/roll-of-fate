@@ -12,4 +12,4 @@ status: alive
 
 - Related to: 
 	- [[Erol]] (Husband)
-	- [[Riota]] (Daughter)
+	- [[Mariota]] (Daughter)

@@ -7,7 +7,7 @@ aliases:
 status: alive
 ---
 
-# Riota
+# Mariota
 ![[Riota.png]]
 
 - Related to: 

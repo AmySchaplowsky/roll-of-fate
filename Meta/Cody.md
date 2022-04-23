@@ -1,7 +1,7 @@
 ---
 tags: npcs
 origin: 
-location: 
+location: "[[Riverlands]]"
 faction: 
 aliases: 
 status: alive
@@ -12,3 +12,5 @@ status: alive
 
 - Related to: 
 	- [[Narren]] (Traveling companion)
+	- [[Ol Levi]] (Traveling companion)
+- Was taken into slavery

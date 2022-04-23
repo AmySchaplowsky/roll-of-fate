@@ -12,4 +12,4 @@ status: alive
 
 - Related to: 
 	- [[Oren]] (Husband)
-	- [[Riota]] (Daughter)
+	- [[Mariota]] (Daughter)
