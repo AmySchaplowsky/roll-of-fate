@@ -1,8 +1,8 @@
 ---
 tags: pcs
 origin: 
-location: riverlands
-faction: delver
+location: "[[Riverlands]]"
+faction: "[[House Delver]]"
 aliases: 
 status: alive
 ---

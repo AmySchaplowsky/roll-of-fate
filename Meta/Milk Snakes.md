@@ -5,15 +5,14 @@ origin:
 location: "[[Delving Vale]]"
 ---
 
-# House Delver
+# Milk Snakes
+
+- Group of bandits
 
 ## Members
 ```dataview
 table location, status
-from #pcs or #npcs and -"_templates"
-where contains(faction, link("House Delver"))
+from #npcs and -"_templates"
+where contains(faction, link("Milk Snakes"))
 sort file.name
 ```
-## Images
-![[House Delver.png]]
-

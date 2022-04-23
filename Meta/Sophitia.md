@@ -1,8 +1,8 @@
 ---
 tags: npcs
 origin: 
-location: delving vale
-faction: devler
+location: "[[Delving Vale]]"
+faction: "[[House Delver]]"
 aliases: 
 status: alive
 ---
@@ -10,5 +10,7 @@ status: alive
 # Sophitia Devler
 ![[Sophita Delver.png]]
 
-- Related to: [[Feorella]] (daughter)
+- Related to:
+	- [[Feorella]] (daughter)
+	- [[Ser Ronald]] (former lover)
 - Head of [[House Delver]]
