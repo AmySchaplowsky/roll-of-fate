@@ -13,3 +13,5 @@ status: alive
 
 ## Banner
 ![[Corren Banner.png]]
+- Related to:
+	- [[Ieandra]] (Mother)
