@@ -5,14 +5,14 @@ origin:
 location: "[[Riverlands]]"
 ---
 
-# Hoods of the Woods
+# The Band of the Fisher Lord
 
-- Mercenary Company found at the black market in the [[Riverlands]]
+- One of the mercenary groups talked to by [[Feorella]]
 
 ## Members
 ```dataview
 table location, status
 from #npcs and -"_templates"
-where contains(faction, link("Hoods of the Woods"))
+where contains(faction, link("The Band of the Fisher Lord"))
 sort file.name
 ```

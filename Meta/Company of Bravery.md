@@ -5,14 +5,14 @@ origin:
 location: "[[Riverlands]]"
 ---
 
-# Hoods of the Woods
+# Company of Bravery
 
-- Mercenary Company found at the black market in the [[Riverlands]]
+- On of the mercenary factions talked to by [[Feorella]]
 
 ## Members
 ```dataview
 table location, status
 from #npcs and -"_templates"
-where contains(faction, link("Hoods of the Woods"))
+where contains(faction, link("Company of Bravery"))
 sort file.name
 ```

@@ -5,14 +5,14 @@ origin:
 location: "[[Riverlands]]"
 ---
 
-# Hoods of the Woods
+# Iron Reavers
 
-- Mercenary Company found at the black market in the [[Riverlands]]
+- One of the mercenary groups the [[Feorella]] talked to
 
 ## Members
 ```dataview
 table location, status
 from #npcs and -"_templates"
-where contains(faction, link("Hoods of the Woods"))
+where contains(faction, link("Iron Reavers"))
 sort file.name
 ```

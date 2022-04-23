@@ -5,14 +5,14 @@ origin:
 location: "[[Riverlands]]"
 ---
 
-# Hoods of the Woods
+# The Silent Sentinels
 
-- Mercenary Company found at the black market in the [[Riverlands]]
+- One of the mercenary factions talked to by [[Feorella]]
 
 ## Members
 ```dataview
 table location, status
 from #npcs and -"_templates"
-where contains(faction, link("Hoods of the Woods"))
+where contains(faction, link("The Silent Sentinels"))
 sort file.name
 ```
