@@ -14,4 +14,3 @@ status: alive
 	- [[Eustace]] (Father)
 	- [[Hansel]] (Brother)
 - Good fighter
-- Wants to believe large grandious stories
