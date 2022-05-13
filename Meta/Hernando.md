@@ -1,7 +1,7 @@
 ---
 tags: npcs
 origin: 
-location: 
+location: unkown
 faction: "[[House Delver]]"
 aliases: 
 status: alive
