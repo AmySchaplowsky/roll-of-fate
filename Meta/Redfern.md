@@ -3,17 +3,18 @@ tags: locations
 aliases: 
 ---
 
-# Riverlands
+# Redfern
 
-- 
+- Town in the [[Riverlands]]
 
 ## Establishments
 ```dataview
-table proprietor, shop-type
+table proprietor, building-type
 from #buildings and -"_templates"
-where contains(location, link("Riverlands"))
+where contains(location, link("Redfern"))
 sort file.name
 ```
+
 
 
 
@@ -21,7 +22,7 @@ sort file.name
 ```dataview
 table location 
 from #factions and -"_templates"
-where contains(location, link("Riverlands"))
+where contains(location, link("Redfern"))
 sort file.name
 ```
 
@@ -29,6 +30,6 @@ sort file.name
 ```dataview
 table status, faction, location, origin
 from #npcs and -"_templates"
-where contains(origin, link("Riverlands")) or contains(location, link("Riverlands"))
+where contains(origin, link("Redfern")) or contains(location, link("Redfern"))
 sort file.name
 ```
