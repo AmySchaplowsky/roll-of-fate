@@ -2,7 +2,7 @@
 tags: npcs
 origin: 
 location: 
-faction: 
+faction: [[House Delver]]
 aliases: 
 status: alive
 ---
