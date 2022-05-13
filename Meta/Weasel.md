@@ -1,8 +1,8 @@
 ---
 tags: npcs
 origin: 
-location: [[Riverlands]]
-faction: [[House Delver]]
+location: "[[Riverlands]]"
+faction: "[[House Delver]]"
 aliases: 
 status: alive
 ---
