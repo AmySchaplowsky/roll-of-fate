@@ -11,3 +11,4 @@ status: alive
 ![[Weasel.png]]
 
 - Related to: 
+	- [[Sniffles]] - Likes him
