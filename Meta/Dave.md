@@ -8,6 +8,7 @@ status: alive
 ---
 
 # Dave
+![[Dave.png]]
 
 - He is guard the fourth
 - He was hired recently
